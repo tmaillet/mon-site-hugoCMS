@@ -8,5 +8,9 @@
         });
       }
     });
+    // Ce bout de code supplémentaire force la redirection après confirmation
+    window.netlifyIdentity.on("confirmation", (user) => {
+      window.netlifyIdentity.open();
+    });
   }
 </script>
