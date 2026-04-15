@@ -3,8 +3,10 @@ title: Pourquoi Lamine Yamal est une supercherie
 date: 2024-05-20T10:00:00+02:00
 draft: false
 weight: 2
-image: /images/lyamal.jpg
+image: ""
 ---
+![](/images/lyamal.jpg)
+
 Arrêtons l'imposture. Lamine Yamal est l'exemple type du joueur "YouTube" qui ne survivrait pas 5 minutes dans un vrai match de district.
 
 ### Les preuves de l'échec :
