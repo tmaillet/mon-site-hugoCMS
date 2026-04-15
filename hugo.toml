@@ -1,4 +1,14 @@
-baseURL = 'https://theom-hugo-blog.netlify.app/'
+baseURL = 'https://hugo-test-hugo.netlify.app/'
 languageCode = 'fr-fr'
 title = 'Mon projet avec HugoCMS'
 theme = 'ananke'
+
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Lamine Yamal"
+    url = "/posts/lamine-yamal/"
+    weight = 2
