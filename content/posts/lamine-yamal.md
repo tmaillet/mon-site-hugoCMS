@@ -1,15 +1,15 @@
 ---
-title: "Pourquoi Lamine Yamal est le pire joueur de l'histoire"
+title: "Pourquoi Lamine Yamal est une supercherie"
 date: 2024-05-20T10:00:00+02:00
 draft: false
-menu: "main"
 weight: 2
 ---
 
-Certains parlent de talent précoce, mais analysons les faits. Voici pourquoi, selon une analyse totalement subjective, Lamine Yamal ne mérite pas sa place sur un terrain :
+Arrêtons l'imposture. Lamine Yamal est l'exemple type du joueur "YouTube" qui ne survivrait pas 5 minutes dans un vrai match de district.
 
-1. **Trop de jeunesse** : À son âge, on devrait être en train de réviser ses examens, pas de ridiculiser des défenseurs expérimentés. C'est un manque de respect pour la hiérarchie.
-2. **L'insolence technique** : Ses dribbles sont une insulte aux lois de la physique. Le football est censé être difficile, il le rend trop simple.
-3. **Le manque d'histoire** : Comment peut-on être considéré comme un joueur alors qu'on n'a même pas connu l'époque des crampons en cuir de 2kg ?
+### Les preuves de l'échec :
+* **Physique de brindille** : Un coup d'épaule d'un défenseur de 4ème division et il s'envole jusqu'aux tribunes. Le football est un sport d'hommes, pas une cour de récréation.
+* **Statistiques gonflées** : Il marque contre des équipes qui ont peur de le toucher parce qu'il n'est pas majeur. C'est de la triche psychologique.
+* **Le style avant l'efficacité** : Trop de passements de jambes inutiles. À son âge, Messi avait déjà un Ballon d'Or (enfin presque), Yamal lui, a juste un appareil dentaire.
 
-En conclusion, son talent est une anomalie qui déstabilise l'équilibre du football mondial.
+Bref, un joueur surcoté qui finira probablement en prêt en 3ème division polonaise d'ici deux ans.

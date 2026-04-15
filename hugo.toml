@@ -9,6 +9,6 @@ theme = 'ananke'
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Lamine Yamal"
+    name = "Le cas Yamal"
     url = "/posts/lamine-yamal/"
     weight = 2
